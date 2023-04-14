@@ -6,6 +6,11 @@ body {
   h1 {
     text-align: center;
   }
+
+  h2 {
+    text-align: center;
+    margin: 50px 15px 15px 15px;
+  }
   
   body {
     background-color: Cornsilk;
@@ -15,6 +20,8 @@ body {
     background-color: BlanchedAlmond;
     font-size: 15px;
     border: 2px solid darkslategrey; 
+    min-width: 80%;
+    margin: auto;
   }
   
   thead {
