@@ -5,11 +5,16 @@ body {
   
   h1 {
     text-align: center;
+    background-color: darkslategray;
+    color: cornsilk;
+    padding: 10px;
+    font-weight: lighter;
   }
 
   h2 {
     text-align: center;
     margin: 50px 15px 15px 15px;
+    font-weight: lighter;
   }
   
   body {
@@ -42,5 +47,4 @@ body {
   .property {
      font-family: monospace;
      color: CornflowerBlue;
-     width: 20%;
   }
