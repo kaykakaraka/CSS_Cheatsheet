@@ -20,7 +20,7 @@ body {
     background-color: BlanchedAlmond;
     font-size: 15px;
     border: 2px solid darkslategrey; 
-    min-width: 80%;
+    width: 80%;
     margin: auto;
   }
   
@@ -31,6 +31,7 @@ body {
   
   td {
     padding: 10px;
+    width: 33%;
   }
   
   .value {
@@ -41,4 +42,5 @@ body {
   .property {
      font-family: monospace;
      color: CornflowerBlue;
+     width: 20%;
   }
